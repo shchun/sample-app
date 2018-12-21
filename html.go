@@ -34,9 +34,9 @@ const (
 <div class="col s8">
 
 
-<div class="card pink">
+<div class="card navy">
 <div class="card-content white-text">
-<div class="card-title">Backend that serviced this request</div>
+<div class="card-title">Hello !!!! Backend that serviced this request</div>
 </div>
 <div class="card-content white">
 <table class="bordered">
