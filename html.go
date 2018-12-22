@@ -34,7 +34,7 @@ const (
 <div class="col s8">
 
 
-<div class="card navy">
+<div class="card yellow">
 <div class="card-content white-text">
 <div class="card-title">Hello Spinnaker!!!! Backend that serviced this request</div>
 </div>
