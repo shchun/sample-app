@@ -36,7 +36,7 @@ const (
 
 <div class="card navy">
 <div class="card-content white-text">
-<div class="card-title">Hello !!!! Backend that serviced this request</div>
+<div class="card-title">Hello Spinnaker!!!! Backend that serviced this request</div>
 </div>
 <div class="card-content white">
 <table class="bordered">
